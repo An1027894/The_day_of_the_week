@@ -1,0 +1,14 @@
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.AssemblyInfoInputs.cache
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.AssemblyInfo.cs
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\bin\Debug\net8.0\day_of_the_week.exe
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\bin\Debug\net8.0\day_of_the_week.deps.json
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\bin\Debug\net8.0\day_of_the_week.runtimeconfig.json
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\bin\Debug\net8.0\day_of_the_week.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\bin\Debug\net8.0\day_of_the_week.pdb
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\refint\day_of_the_week.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.pdb
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\day_of_the_week.genruntimeconfig.cache
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\day_of_the_week\obj\Debug\net8.0\ref\day_of_the_week.dll
